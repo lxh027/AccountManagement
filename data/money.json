@@ -1,0 +1,20 @@
+[
+	{
+		"balance" : 109.0,
+		"money" : 100.0,
+		"type" : "add",
+		"username" : "123"
+	},
+	{
+		"balance" : 209.0,
+		"money" : 100.0,
+		"type" : "add",
+		"username" : "123"
+	},
+	{
+		"balance" : 109.0,
+		"money" : 100.0,
+		"type" : "refund",
+		"username" : "123"
+	}
+]
